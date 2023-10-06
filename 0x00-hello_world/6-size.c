@@ -5,11 +5,11 @@ include <stdio.h>
  */
 int main(void)
 {
-	char a = sizeof(char);
-	an int b =sizeof(an int);
-	long int c =sizeof(long int);
-	long long int d =sizeof(long long int);
-	float e =sizeof(float);
+	int a = sizeof(char);
+	int b = sizeof(int);
+	int c = sizeof(unsigned int);
+        int d = sizeof(long);
+	int e = sizeof(float);
 	printf("Size of a char: %d byte(s)\n",a);
 	printf("Size of an int: %d byte(s)\n",b);
 	printf("Size of long int: %d byte(s)\n",c);

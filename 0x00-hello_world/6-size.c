@@ -1,4 +1,4 @@
-include <stdio.h>
+#include <stdio.h>
 /**
  * main - this is function that prints the size of various types computers
  * Return: 0

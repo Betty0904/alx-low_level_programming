@@ -24,6 +24,5 @@ else if(n <= 6)
 {
 printf("%d the last digit of n is less than 6 and not 0\n", n);
 }
-else
 return (0);
 }

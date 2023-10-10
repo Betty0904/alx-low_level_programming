@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main - print the alphabet in lowercase
+ * print -  the alphabet in lowercase
  * Return: void
  */
 int main(void)
@@ -11,5 +11,4 @@ for (i = 'a'; i <= 'z'; i++)
 _putchar(i);
 }
 _putchar('\n');
-
 }

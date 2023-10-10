@@ -5,10 +5,9 @@
  * Return: 1 if c is lowercase 0 otherwise
  */
 int _islower(int c);
-int i;
 {
-if (i >= a && i <= z)
-
+if (c >= 'a' && c <= 'z')
+{
 return (1);
 }
 return (0);

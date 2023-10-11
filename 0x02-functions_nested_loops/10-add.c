@@ -5,7 +5,7 @@
  * @j - the second int to add
  * Return: sum result
  */
-int add(inti, intj)
+int add(int i, int j)
 {
-return (inti + intj);
+return (int i + int j);
 )

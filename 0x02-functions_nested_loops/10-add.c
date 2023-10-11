@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * add(int, int) - check the code
+ * add - check the code
  *
  * Return: sum result
  */
